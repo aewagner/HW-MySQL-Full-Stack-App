@@ -1,1 +1,0 @@
-# HW-MySQL-Full-Stack-App
